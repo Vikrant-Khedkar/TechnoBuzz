@@ -15,7 +15,7 @@ const { spawn } = require('child_process');
  * ✅ Stable techno radio stream (Discord-safe)
  * If you want to change genre later, only change this URL.
  */
-const STREAM_URL = 'https://ice1.somafm.com/dronezone-128-mp3';
+const STREAM_URL = 'https://ice1.somafm.com/beatblender-128-mp3';
 
 const client = new Client({
   intents: [
